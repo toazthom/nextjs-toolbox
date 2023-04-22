@@ -13,7 +13,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Next.js Toolbox" />
+        <Header title="Dunking Diaries" />
         <hr />
         <p className="description">
           Send us a file of your diary and we might select it to do a podcast episode on!
